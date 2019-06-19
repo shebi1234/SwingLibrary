@@ -26,3 +26,4 @@ if __name__ == '__main__':
         sys.exit(1)
     _set_classpath()
     call(_parse_command(), shell=os.name=='nt')
+Sgf
